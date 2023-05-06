@@ -18,3 +18,18 @@ body{
 #start,#status{
     font-size: 22px;
 }
+
+h4{
+    font-weight: bolder;
+    
+}
+
+.copy_right_footer{
+    position: sticky;
+    margin-bottom: 0px;
+    line-height: 2;
+    background-color: aquamarine;
+    text-align: center;
+    width: 100%;
+    font: black;
+}
